@@ -12,7 +12,7 @@ An intelligent resume analysis tool powered by AI. Upload your CV and get instan
 
 ## 🚀 Live Demo
 
-[View on Vercel →](https://ai-cv-analyzer-gamma.vercel.app/)
+[View on Vercel](https://ai-cv-analyzer-gamma.vercel.app/)
 
 ## 🛠️ Tech Stack
 
