@@ -82,7 +82,6 @@ MIT License © 2024 [celiikerenn](https://github.com/celiikerenn)
 
 ---
 
-Sadece Live Demo linki `https://ai-cv-analyzer-gamma.vercel.app/` olarak güncellendi. Push etmek için:
 ```bash
 git add README.md
 git commit -m "Update live demo link"
